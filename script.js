@@ -84,3 +84,6 @@ const step3 = (output1, output2) => {
 
 // Call function to process the input file
 processInput();
+
+
+module.exports = { step1, step2, step3 }
